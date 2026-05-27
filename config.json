@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersrocess",
+        "uuid": 14460444,
+        "checksum": "spz37"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
